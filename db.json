@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "username": "tsaeeds",
+      "first": "Tahir",
+      "last": "Siddiqui",
+      "password": "tahir",
+      "confirmpassword": "tahir",
+      "id": 1
+    },
+    {
+      "username": "tssiddiqui1993@gmail.com",
+      "first": "Tahir",
+      "last": "Siddiqui",
+      "password": "asd",
+      "confirmpassword": "asd",
+      "id": 2
+    },
+    {
+      "username": "haris@example.com",
+      "first": "haris",
+      "last": "siddiqui",
+      "password": "haris",
+      "confirmpassword": "haris",
+      "id": 3
+    },
+    {
+      "username": "bilalSid",
+      "first": "bilal",
+      "last": "siddiqui",
+      "password": "bilal",
+      "confirmpassword": "bilal",
+      "id": 4
+    },
+    {
+      "username": "uneeb123",
+      "first": "uneeb",
+      "last": "siddiqui",
+      "password": "uneeb",
+      "confirmpassword": "uneeb",
+      "id": 5
+    }
+  ]
+}
